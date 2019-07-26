@@ -1,2 +1,2 @@
 python textStream.py &
-python streamReceiver.py
+spark-submit streamReceiver.py
